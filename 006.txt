@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main(void){
+  int n;
+
+  printf("“àŠp‚Ì˜a‚ð“ü—Í=>");
+  ‡@("%d", &n );
+  ‡A( n ‡B 180 ){
+    printf( "ŽOŠpŒ`\n" );
+  }else{
+    printf( "‚»‚Ì‘¼\n" );
+  }
+
+  return 0;
+}

@@ -1,0 +1,19 @@
+#include <stdio.h>
+int main(void){
+  int h, n, i, m;
+
+  printf("–{”‚ğ“ü—Í=>");
+  ‡@("%d", &h );
+  printf("l”‚ğ“ü—Í=>");
+  ‡@("%d", &n );
+  i = h / n;
+  m = h % n;
+  printf( "ˆêl‚ ‚½‚è‚Ì–{”=>%d\n", i );
+  if( m == ‡A ){
+    printf("—]‚è‚Í‚ ‚è‚Ü‚¹‚ñ\n");
+  }‡B{
+    printf("—]‚è‚Ì–{”=>%d\n", m);
+  }
+
+  return 0;
+}

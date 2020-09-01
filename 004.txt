@@ -1,0 +1,16 @@
+#include <stdio.h>
+int main(void){
+  int a, n;
+
+  printf("®”‚ğ“ü—Í");
+  scanf("%d", ‡@ );
+@a = n%‡A;
+@if( a==‡B ){
+@  printf("%d‚Í‹ô”\n", n );
+  }
+  else{
+@  printf("%d‚ÍŠï”\n", n );
+  }
+
+  return 0;
+}

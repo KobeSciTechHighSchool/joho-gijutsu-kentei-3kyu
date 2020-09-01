@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <math.h>
+int main(void){
+  int x, y, k, s;
+
+  x = ‡@;
+  y = (x/2.0) * sqrt(3.0);
+  k = x * ‡A ;
+  s = x * y / 2.0 * 4.0;
+  printf("’·‚³=>%f –ÊÏ=%f\n", ‡B, s );
+
+  return 0;
+}
