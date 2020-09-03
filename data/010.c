@@ -1,13 +1,13 @@
-#include <stdio.h>
+Ôªø#include <stdio.h>
 #include <math.h>
 int main(void){
   int x, y, k, s;
 
-  x = á@;
+  x = ‚ë†;
   y = (x/2.0) * sqrt(3.0);
-  k = x * áA ;
+  k = x * ‚ë° ;
   s = x * y / 2.0 * 4.0;
-  printf("í∑Ç≥=>%f ñ êœ=%f\n", áB, s );
+  printf("Èï∑„Åï=>%f Èù¢Á©ç=%f\n", ‚ë¢, s );
 
   return 0;
 }
